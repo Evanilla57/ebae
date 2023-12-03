@@ -31,12 +31,13 @@ Mock-Up
 ## Usage
 
 Install dependencies: npm i
+Seed data: npm run seed
 Run application: npm start
 Open in Insomnia
 
 ## Links
-GitHub Repo Page: https://github.com/Evanilla57/the-notebook
-Deployed Website: 
+GitHub Repo Page: https://github.com/Evanilla57/ebae
+Deployed Website: https://drive.google.com/file/d/18ISOgLk4y--6IZEkp3HRxy5tIeV9VTv1/view
 
 ## Credits
 
